@@ -1,0 +1,3 @@
+# Prerequisites
+
+- Nerd Font (FiraCode)
