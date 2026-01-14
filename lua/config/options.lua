@@ -87,6 +87,6 @@ vim.opt.smartcase = true
 
 -- Diagnostic display inline
 vim.diagnostic.config({
-  virtual_text = true,
-  underline = true
+	virtual_text = true,
+	underline = true,
 })
